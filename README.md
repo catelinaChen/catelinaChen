@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋, my name is Catelina
+#### I am Front-end developer
+
+Skills: VUE JS / JS / HTML / CSS / PYTHON
