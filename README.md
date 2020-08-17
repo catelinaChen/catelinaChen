@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 
 ## Hey 👋, nice to see you.
 ---
-Welcome to my page!
+<p align='left'>Welcome to my page!</p>
+<p align='left'>I'm Catelina, Front-end developer from 🇨🇳 Guangzhou, China.</p>
+<p align='left'>My favourites tools: VueJS</p>
 
-I'm Catelina, Front-end developer from 🇨🇳 Guangzhou, China.
+[![Gmail Badge](https://img.shields.io/badge/-m13677066509@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:m13677066509@gmail.com)](mailto:m13677066509@gmail.com) [![Github Badge](https://img.shields.io/badge/-catelinaChen-grey?style=flat&logo=github&logoColor=white&link=https://github.com/catelinaChen/)](https://www.github.com/catelinaChen/)
 
-My favourites tools: VueJS
-
-[![Gmail Badge](https://img.shields.io/badge/-m13677066509@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:m13677066509@gmail.com)](mailto:m13677066509@gmail.com) [![Github Badge](https://img.shields.io/badge/-catelinaChen-grey?style=flat&logo=github&logoColor=white&link=https://github.com/catelinaChen/)](https://www.github.com/catelinaChen/) <p align='left'>I am Front-end developer.</p>
