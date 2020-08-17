@@ -13,5 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey 👋, This is Catelina
+## Hey 👋, nice to see you.
+---
+Welcome to my page!
+I'm Catelina, Front-end developer from 🇨🇳 Guangzhou, China.
+My favourites tools: VueJS
 [![Gmail Badge](https://img.shields.io/badge/-m13677066509@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:m13677066509@gmail.com)](mailto:m13677066509@gmail.com) [![Github Badge](https://img.shields.io/badge/-catelinaChen-grey?style=flat&logo=github&logoColor=white&link=https://github.com/catelinaChen/)](https://www.github.com/catelinaChen/) <p align='left'>I am Front-end developer.</p>
